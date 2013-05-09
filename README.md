@@ -2,6 +2,7 @@ Missions
 ========
 
 This is a list of things to challenge you to live a little.
+
 Fork the repository for keeping check of your progress!
 
 Constructive
@@ -73,3 +74,5 @@ Sports
 * [ ] - Walk on a [slackline.](http://en.wikipedia.org/wiki/Slacklining)
 * [ ] - Do a frontflip.
 * [ ] - Do a backflip.
+
+**Completion**: _0_ / **52**
