@@ -9,6 +9,10 @@ Constructive
 ------------
 * [ ] - [30-Day Worldbuilding Challenge.](http://forums.tigsource.com/index.php?topic=23011.0)
 * [ ] - Be a film extra; plus points if you have lines!
+* [ ] - Learn to draw.
+* [ ] - Spray paint.
+* [ ] - Make a garden inside a forest.
+* [ ] - Try yoga.
 * [ ] - Create urban art!
 * [ ] - Go to a concert; plus points if the crowd comes for you!
 * [ ] - Leave a huge tip to a waitress or waiter.
@@ -37,7 +41,6 @@ Self Improvement
 * [ ] - [Learn to control your pupils.](http://www.wikihow.com/Dilate-or-Shrink-Your-Pupils-on-Command)
 * [ ] - [Learn to astral project.](http://en.wikipedia.org/wiki/Astral_projection)
 * [ ] - [Learn to blow fire.](http://www.wikihow.com/Blow-Fire)
-* [ ] - Learn to cook new food.
 * [ ] - [Learn to count to 99 on your fingers.](http://www.wikihow.com/Count-to-99-on-Your-Fingers)
 * [ ] - [Learn to lucid dream.](http://www.wikihow.com/Lucid-Dream)
 * [ ] - [Learn to meditate.](http://www.wikihow.com/Meditate)
@@ -50,19 +53,19 @@ Interesting
 * [ ] - Hide something.
 * [ ] - Bury something.
 * [ ] - Leave a message for future generations.
-* [ ] - Play with five different kinds of animals.
-* [ ] - Ride on the back of 3 animals.
 * [ ] - Host an outside movie sitting.
 
 Slightly dangerous
 ------------------
 * [ ] - Walk on fire.
+* [ ] - Swim in 0 degree celsius water.
 * [ ] - [Fast for a set duration.](http://en.wikipedia.org/wiki/Fasting)
 
 Sports
 ------
 * [ ] - [Parasail](http://en.wikipedia.org/wiki/Parasailing)
 * [ ] - Jump from a mountain!
+* [ ] - Do an Ironman.
 * [ ] - Be 20 meters under the sea level.
 * [ ] - Bungee jump!
 * [ ] - [Complete the Jackie Chan coin challenge.](http://www.youtube.com/watch?v=4vk3tlSJzqc)
@@ -75,4 +78,4 @@ Sports
 * [ ] - Do a frontflip.
 * [ ] - Do a backflip.
 
-**Completion**: _0_ / **52**
+**Completion**: _0_ / **56**
